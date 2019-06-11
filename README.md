@@ -1,2 +1,5 @@
 # Hello-World
-Just another Repository
+
+Hi Everyone,
+
+Im just joining on github on this day to learn and collaborate with other developer
